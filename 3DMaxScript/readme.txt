@@ -1,1 +1,1 @@
-Run "exportX_OK.ms". to export 3ds max model to DMod file.
+Run "exportX_OK.ms" to export 3ds max model to DMod file.
